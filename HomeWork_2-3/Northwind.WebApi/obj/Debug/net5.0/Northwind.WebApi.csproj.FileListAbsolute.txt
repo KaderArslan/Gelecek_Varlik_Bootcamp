@@ -1,0 +1,204 @@
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.exe
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.deps.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.runtimeconfig.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.runtimeconfig.dev.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\ref\Northwind.WebApi.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.AssemblyInfoInputs.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.AssemblyInfo.cs
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.CoreCompileInputs.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\staticwebassets\Northwind.WebApi.StaticWebAssets.Manifest.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\staticwebassets\Northwind.WebApi.StaticWebAssets.xml
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\scopedcss\bundle\Northwind.WebApi.styles.css
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.RazorTargetAssemblyInfo.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.CopyComplete
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\ref\Northwind.WebApi.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.genruntimeconfig.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Entity.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Interface.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Interface.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Entity.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csprojAssemblyReference.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Bll.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Dal.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Bll.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Dal.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.StaticWebAssets.xml
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.exe
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.deps.json
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.runtimeconfig.json
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.runtimeconfig.dev.json
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Bll.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Dal.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Entity.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Interface.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Bll.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Dal.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Interface.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\scopedcss\bundle\Northwind.WebApi.styles.css
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\staticwebassets\Northwind.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.CopyComplete
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\refint\Northwind.WebApi.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.genruntimeconfig.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.WebApi\obj\Debug\net5.0\ref\Northwind.WebApi.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.StaticWebAssets.xml
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.exe
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.deps.json
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.runtimeconfig.json
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.runtimeconfig.dev.json
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.WebApi.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Bll.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Dal.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Entity.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Interface.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Bll.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Dal.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Interface.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\scopedcss\bundle\Northwind.WebApi.styles.css
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\staticwebassets\Northwind.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.csproj.CopyComplete
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\refint\Northwind.WebApi.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\Northwind.WebApi.genruntimeconfig.cache
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\obj\Debug\net5.0\ref\Northwind.WebApi.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
