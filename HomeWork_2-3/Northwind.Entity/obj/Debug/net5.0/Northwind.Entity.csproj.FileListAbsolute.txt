@@ -1,0 +1,45 @@
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.deps.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\bin\Debug\net5.0\ref\Northwind.Entity.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfoInputs.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfo.cs
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csproj.CoreCompileInputs.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\obj\Debug\net5.0\ref\Northwind.Entity.dll
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.pdb
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.dev.json
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csprojAssemblyReference.cache
+D:\Egitim\Patika\Gelecek Varlık\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.genruntimeconfig.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.deps.json
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.json
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.dev.json
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\obj\Debug\net5.0\refint\Northwind.Entity.dll
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.genruntimeconfig.cache
+C:\Users\Casper\Desktop\Northwind23.04.2022\Northwind\Northwind.Entity\obj\Debug\net5.0\ref\Northwind.Entity.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.deps.json
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.json
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.dev.json
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\obj\Debug\net5.0\refint\Northwind.Entity.dll
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.genruntimeconfig.cache
+C:\Users\Casper\Desktop\Northwind\Northwind.Entity\obj\Debug\net5.0\ref\Northwind.Entity.dll
