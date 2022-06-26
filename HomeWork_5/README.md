@@ -1,7 +1,4 @@
-# Week - NULL
-```Ödev-5 React-1 Hafta```
-
-# Homework 
+# Kader Arslan Homework 1
 ```
 1. Reduce ile isimlerin baş harfine göre gruplandırma
 2. Yaşadıkları şehirlere göre gruplandırma
@@ -500,5 +497,4 @@ const person1 = {
 ```
 
 ## Author
-
 ```Kader Arslan```
