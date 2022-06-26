@@ -1,4 +1,4 @@
-# Homework 
+# Homework 6
 1. Kullanıcı kayıtlı ise Login değilse Register işlemi ile giriş yaparak Pdf dosyasında [Ödev](https://github.com/KaderArslan/Gelecek_Varlik_Bootcamp/blob/main/HomeWork_6/Odev.pdf "") istenilen Todolar ve Kategorileri Listeleme, Ekleme, Güncelleme işlemleri yapılacak.
 
 1. Docker indirilmeli.
