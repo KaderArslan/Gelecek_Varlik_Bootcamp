@@ -1,4 +1,4 @@
-# KaderArslan_Homework_1
+# KaderArslan Homework 1
 # CRM Yönetim Sistemi UML Diagram'ın MSSQL de Veritabanını Oluşturma
 
 ### Senaryo
@@ -48,3 +48,6 @@
 ### MSSQL'de Oluşturulan Database Diagramı:
 ---
 ![Database Diagramı](https://github.com/KaderArslan/Gelecek_Varlik_Bootcamp/blob/main/HomeWork_1/Campaign_Database_Diagram.png)
+
+## Author
+```Kader Arslan```
