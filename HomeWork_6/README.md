@@ -1,5 +1,5 @@
 # Homework 
-1. Kullanıcı kayıtlı ise Login değilse Register işlemi ile giriş yaparak Pdf dosyasında [Ödev](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-6-react-2-KaderArslan/blob/main/Odev.pdf "") istenilen Todolar ve Kategorileri Listeleme, Ekleme, Güncelleme işlemleri yapılacak.
+1. Kullanıcı kayıtlı ise Login değilse Register işlemi ile giriş yaparak Pdf dosyasında [Ödev](https://github.com/KaderArslan/Gelecek_Varlik_Bootcamp/blob/main/HomeWork_6/Odev.pdf "") istenilen Todolar ve Kategorileri Listeleme, Ekleme, Güncelleme işlemleri yapılacak.
 
 1. Docker indirilmeli.
 
