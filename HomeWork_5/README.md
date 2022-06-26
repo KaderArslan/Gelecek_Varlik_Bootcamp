@@ -498,3 +498,17 @@ const person1 = {
 
 ## Author
 ```Kader Arslan```
+
+<!-- spread
+ higher order
+entries
+incledes
+slides
+sort
+sum
+unshift
+shift
+an
+flat
+startsWith
+edWith-->
