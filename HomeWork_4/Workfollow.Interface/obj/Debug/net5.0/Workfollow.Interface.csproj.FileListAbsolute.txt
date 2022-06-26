@@ -1,0 +1,15 @@
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\bin\Debug\net5.0\Workfollow.Interface.deps.json
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\bin\Debug\net5.0\Workfollow.Interface.dll
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\bin\Debug\net5.0\Workfollow.Interface.pdb
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\obj\Debug\net5.0\Workfollow.Interface.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\obj\Debug\net5.0\Workfollow.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\obj\Debug\net5.0\Workfollow.Interface.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\obj\Debug\net5.0\Workfollow.Interface.AssemblyInfo.cs
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\obj\Debug\net5.0\Workfollow.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\obj\Debug\net5.0\Workfollow.Interface.dll
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\obj\Debug\net5.0\refint\Workfollow.Interface.dll
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\obj\Debug\net5.0\Workfollow.Interface.pdb
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\obj\Debug\net5.0\ref\Workfollow.Interface.dll
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\bin\Debug\net5.0\Workfollow.Entity.dll
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\bin\Debug\net5.0\Workfollow.Entity.pdb
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Interface\obj\Debug\net5.0\Workfollow.Interface.csproj.CopyComplete

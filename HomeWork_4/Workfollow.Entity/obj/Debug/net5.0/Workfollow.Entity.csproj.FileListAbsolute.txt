@@ -1,0 +1,15 @@
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\bin\Debug\net5.0\Workfollow.Entity.deps.json
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\bin\Debug\net5.0\Workfollow.Entity.runtimeconfig.json
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\bin\Debug\net5.0\Workfollow.Entity.runtimeconfig.dev.json
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\bin\Debug\net5.0\Workfollow.Entity.dll
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\bin\Debug\net5.0\Workfollow.Entity.pdb
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\obj\Debug\net5.0\Workfollow.Entity.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\obj\Debug\net5.0\Workfollow.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\obj\Debug\net5.0\Workfollow.Entity.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\obj\Debug\net5.0\Workfollow.Entity.AssemblyInfo.cs
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\obj\Debug\net5.0\Workfollow.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\obj\Debug\net5.0\Workfollow.Entity.dll
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\obj\Debug\net5.0\refint\Workfollow.Entity.dll
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\obj\Debug\net5.0\Workfollow.Entity.pdb
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\obj\Debug\net5.0\Workfollow.Entity.genruntimeconfig.cache
+C:\Users\Casper\Desktop\patika.dev\gelecek-varlik\dotnetodev\Workfollow\Workfollow.Entity\obj\Debug\net5.0\ref\Workfollow.Entity.dll
