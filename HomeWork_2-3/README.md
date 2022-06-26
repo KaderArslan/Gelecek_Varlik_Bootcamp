@@ -1,4 +1,5 @@
-# Northwind Database ile N-Katmanlı Mimari
+# Kader Arslan HomeWork 2-3
+## Northwind Database ile N-Katmanlı Mimari
 
 ## Senaryo
 Microsoft'un sağladığı Northwind Database ile .Net5 ile N Katmanlı Mimari Yapısını kurmak ve Jwt Token ile Token oluşturmak.
@@ -45,3 +46,6 @@ Microsoft'un sağladığı Northwind Database ile .Net5 ile N Katmanlı Mimari Y
 ---
 ### Territory
 ![Territory](https://github.com/KaderArslan/Gelecek_Varlik_Bootcamp/blob/main/HomeWork_2-3/screenshots/territory.png)
+
+## Author
+```Kader Arslan```
